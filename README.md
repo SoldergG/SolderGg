@@ -2,7 +2,7 @@
 
 # Lucas Salvador
 
-**iOS & Mobile Developer/Web developer· Portugal**
+**iOS & Mobile Developer/Web developer · Portugal**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-soldergg.github.io-c8ff6e?style=for-the-badge&logoColor=black)](https://soldergg.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@8__lucs2-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/8_lucs2)
