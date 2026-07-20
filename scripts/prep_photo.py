@@ -16,7 +16,7 @@ from pathlib import Path
 
 import cv2
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageOps
 from rembg import remove
 
 OUT_PATH = Path(__file__).resolve().parent.parent / "source-prepped.png"
@@ -28,7 +28,12 @@ def main():
         sys.exit(1)
 
     src_path = Path(sys.argv[1])
-    input_bytes = src_path.read_bytes()
+
+    # normalize EXIF rotation before anything else touches the pixels
+    upright = ImageOps.exif_transpose(Image.open(src_path)).convert("RGB")
+    buf = io.BytesIO()
+    upright.save(buf, format="PNG")
+    input_bytes = buf.getvalue()
 
     # 1. isolate the subject
     cutout_bytes = remove(input_bytes)
