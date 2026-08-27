@@ -1,6 +1,6 @@
 {
   "username": "SoldergG",
-  "total_last_year": 279,
+  "total_last_year": 280,
   "days": [
     {
       "date": "2025-08-24",
@@ -1839,13 +1839,18 @@
     },
     {
       "date": "2026-08-26",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-27",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "current_streak": 38,
-    "longest_streak": 38,
+    "current_streak": 39,
+    "longest_streak": 39,
     "best_day": {
       "date": "2026-04-28",
       "level": 4,
@@ -1864,7 +1869,7 @@
       "2026-05": 42,
       "2026-06": 5,
       "2026-07": 51,
-      "2026-08": 26
+      "2026-08": 27
     }
   }
 }
