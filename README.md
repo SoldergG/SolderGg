@@ -17,7 +17,18 @@
 
 <br>
 
-## Projects
+## Featured
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **[PodcastHelper](https://github.com/SoldergG/podcasthelper)** ([live](https://podcasthelper.vercel.app)) | Free remote podcast studio. Every guest records mic and camera locally, clocks are synced, files are shared peer-to-peer. Browser editor with noise cleanup, captions and 9:16 export | Next.js 16 · WebRTC · Web Audio · Capacitor |
+| [espalha-ideias](https://github.com/SoldergG/espalha-ideias) | Rebuild of a real client's website with a password-protected admin CMS | Next.js 16 · Supabase |
+| [swiftui-gallery](https://github.com/SoldergG/swiftui-gallery) | 35+ copy-paste SwiftUI components, like shadcn/ui for SwiftUI | SwiftUI · Next.js |
+| [schema-visualizer](https://github.com/SoldergG/schema-visualizer) | Paste SQL, get an interactive ER diagram | Next.js · React Flow |
+| [ai-chat-swift](https://github.com/SoldergG/ai-chat-swift) | Native iOS chat with the Claude API, real-time streaming and history | SwiftUI · Anthropic |
+| [portfolio-v2](https://github.com/SoldergG/portfolio-v2) | Personal portfolio with a 3D interactive hero | Next.js 15 · Three.js |
+
+## All projects
 
 ### iOS & macOS
 
@@ -40,6 +51,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [podcasthelper](https://github.com/SoldergG/podcasthelper) | Remote podcast studio with synced local recording, P2P file sharing and a browser editor | Next.js 16 · WebRTC · Capacitor |
 | [espalha-ideias](https://github.com/SoldergG/espalha-ideias) | Rebuild of espalhaideias.pt (real client) with password-protected admin CMS | Next.js 16 · Supabase |
 | [desporto-mais](https://github.com/SoldergG/desporto-mais) | Rebuild of desportomais.pt, sister brand of Espalha Ideias — sports management & water-safety services | Next.js · Supabase |
 | [portfolio-v2](https://github.com/SoldergG/portfolio-v2) | Personal developer portfolio — 3D interactive hero, project showcase, smooth animations | Next.js 15 · Three.js |
