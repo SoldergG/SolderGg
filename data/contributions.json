@@ -1,42 +1,7 @@
 {
   "username": "SoldergG",
-  "total_last_year": 346,
+  "total_last_year": 354,
   "days": [
-    {
-      "date": "2025-10-05",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-07",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-12",
       "level": 0,
@@ -1854,13 +1819,18 @@
     },
     {
       "date": "2026-10-10",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "level": 3,
+      "count": 7
     }
   ],
   "stats": {
-    "current_streak": 83,
-    "longest_streak": 83,
+    "current_streak": 85,
+    "longest_streak": 85,
     "best_day": {
       "date": "2026-04-28",
       "level": 4,
@@ -1879,7 +1849,7 @@
       "2026-07": 51,
       "2026-08": 32,
       "2026-09": 49,
-      "2026-10": 12
+      "2026-10": 20
     }
   }
 }
