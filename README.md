@@ -61,7 +61,7 @@
 | [lisbon-dashboard](https://github.com/SoldergG/lisbon-dashboard) | Lisbon city stats — live weather, metro status, air quality, tourism charts | Next.js 15 · Recharts |
 | [home-radar](https://github.com/SoldergG/home-radar) | Home network dashboard — device tracking, security monitoring, radar UI | Next.js · TypeScript |
 | [qr-menu](https://github.com/SoldergG/qr-menu) | QR code digital menu system for restaurants | Next.js 15 |
-| [solar-calc-v2](https://github.com/SoldergG/solar-calc-v2) | Solar panel ROI calculator for Portugal — 3D house scene, production chart, CO₂ tracker | Next.js 15 · Three.js |
+| [SolarCalc](https://solarcalc-livid.vercel.app) | Solar calculator for Portuguese homes — draw your roof on satellite imagery, PVGIS production, payback and CO₂ | Three.js · Leaflet · PVGIS |
 | [TerrainCalc](https://github.com/SoldergG/TerrainCalc) | Satellite terrain measurement — area, distance & radius from satellite imagery | React · Three.js · Leaflet |
 | [sushi-tracker](https://github.com/SoldergG/sushi-tracker) | Track sushi sessions, score dishes, share with friends | React Native · Expo |
 
