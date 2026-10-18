@@ -10,27 +10,27 @@ from pathlib import Path
 
 OUT_PATH = Path(__file__).resolve().parent.parent / "info-card.svg"
 
-BG = "#0d1117"
-BORDER = "#30363d"
-HEADER = "#39d353"
-KEY_COLORS = ["#79c0ff", "#d2a8ff", "#ffa657", "#7ee787"]
-VALUE = "#c9d1d9"
-DIM = "#8b949e"
+BG = "#0D1424"
+BORDER = "#26304A"
+HEADER = "#D9C7A7"
+KEY_COLORS = ["#9DB5EE", "#D9C7A7", "#9DB5EE", "#D9C7A7"]
+VALUE = "#F2F0EA"
+DIM = "#A6B0C3"
 
 WIDTH = 490
 PAD_X = 22
-TITLE_Y = 34
-RULE_Y = 46
-ROW_START_Y = 74
+TITLE_Y = 44
+RULE_Y = 56
+ROW_START_Y = 86
 ROW_GAP = 30
 FONT = "Menlo, Consolas, 'SF Mono', monospace"
 
 ROWS = [
-    ("Now", "espalha-ideias — Next.js 16 + Supabase rebuild"),
-    ("Prev", "swift-ui-components — SwiftUI SPM, v1.0.0"),
+    ("Now", "Lunar · school assistant, iOS + web + Android"),
+    ("Prev", "Portfolio redesign · soldergg.github.io"),
     ("Stack", "Swift/SwiftUI · Kotlin/Compose · React Native"),
     ("", "Next.js · Three.js · Supabase"),
-    ("Highlights", "14 public repos · 8 shipped to Vercel"),
+    ("Shipped", "KebabLocator on the App Store · 36 public repos"),
 ]
 
 STATIC = os.environ.get("STATIC") == "1"

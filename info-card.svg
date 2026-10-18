@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="228" viewBox="0 0 490 228" font-family="Menlo, Consolas, 'SF Mono', monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="240" viewBox="0 0 490 240" font-family="Menlo, Consolas, 'SF Mono', monospace">
 
   <style>
-    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .card { fill: #0D1424; stroke: #26304A; stroke-width: 1; }
     .dot { opacity: 0.9; }
-    .title { fill: #39d353; font-size: 15px; font-weight: bold; }
+    .title { fill: #D9C7A7; font-size: 15px; font-weight: bold; }
     .key { font-size: 13px; font-weight: bold; }
-    .value { fill: #c9d1d9; font-size: 13px; }
-    .dim { fill: #8b949e; font-size: 12px; }
+    .value { fill: #F2F0EA; font-size: 13px; }
+    .dim { fill: #A6B0C3; font-size: 12px; }
     .line { opacity: 0; transform-box: fill-box; transform-origin: left; animation: fadein 0.45s ease-out forwards; }
     @keyframes fadein {
       0%   { opacity: 0; transform: translateX(-6px); }
@@ -14,15 +14,15 @@
     }
   </style>
 
-<rect class="card" x="0.5" y="0.5" width="489" height="227" rx="8"/>
+<rect class="card" x="0.5" y="0.5" width="489" height="239" rx="8"/>
 <circle class="dot" cx="22" cy="18" r="5" fill="#ff5f56"/>
 <circle class="dot" cx="38" cy="18" r="5" fill="#ffbd2e"/>
 <circle class="dot" cx="54" cy="18" r="5" fill="#27c93f"/>
-<g class="line" style="animation-delay:0.00s"><text class="title" x="22" y="34">lucas@soldergg</text></g>
-<g class="line" style="animation-delay:0.09s"><text class="dim" x="22" y="46">----------------------------------</text></g>
-<g class="line" style="animation-delay:0.18s"><text x="22" y="74" class="key" fill="#79c0ff">Now:</text><text x="122" y="74" class="value">espalha-ideias — Next.js 16 + Supabase rebuild</text></g>
-<g class="line" style="animation-delay:0.27s"><text x="22" y="104" class="key" fill="#d2a8ff">Prev:</text><text x="122" y="104" class="value">swift-ui-components — SwiftUI SPM, v1.0.0</text></g>
-<g class="line" style="animation-delay:0.36s"><text x="22" y="134" class="key" fill="#ffa657">Stack:</text><text x="122" y="134" class="value">Swift/SwiftUI · Kotlin/Compose · React Native</text></g>
-<g class="line" style="animation-delay:0.45s"><text x="122" y="164" class="value">Next.js · Three.js · Supabase</text></g>
-<g class="line" style="animation-delay:0.54s"><text x="22" y="194" class="key" fill="#7ee787">Highlights:</text><text x="122" y="194" class="value">14 public repos · 8 shipped to Vercel</text></g>
+<g class="line" style="animation-delay:0.00s"><text class="title" x="22" y="44">lucas@soldergg</text></g>
+<g class="line" style="animation-delay:0.09s"><text class="dim" x="22" y="56">----------------------------------</text></g>
+<g class="line" style="animation-delay:0.18s"><text x="22" y="86" class="key" fill="#9DB5EE">Now:</text><text x="98" y="86" class="value">Lunar · school assistant, iOS + web + Android</text></g>
+<g class="line" style="animation-delay:0.27s"><text x="22" y="116" class="key" fill="#D9C7A7">Prev:</text><text x="98" y="116" class="value">Portfolio redesign · soldergg.github.io</text></g>
+<g class="line" style="animation-delay:0.36s"><text x="22" y="146" class="key" fill="#9DB5EE">Stack:</text><text x="98" y="146" class="value">Swift/SwiftUI · Kotlin/Compose · React Native</text></g>
+<g class="line" style="animation-delay:0.45s"><text x="98" y="176" class="value">Next.js · Three.js · Supabase</text></g>
+<g class="line" style="animation-delay:0.54s"><text x="22" y="206" class="key" fill="#D9C7A7">Shipped:</text><text x="98" y="206" class="value">KebabLocator on the App Store · 36 public repos</text></g>
 </svg>

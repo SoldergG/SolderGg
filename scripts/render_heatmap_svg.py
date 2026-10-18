@@ -13,14 +13,14 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = ROOT / "data" / "contributions.json"
 OUT_PATH = ROOT / "contrib-heatmap.svg"
 
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+PALETTE = ["#18223A", "#22386A", "#2B4C8C", "#5C7FC4", "#9DB5EE", "#D9C7A7"]
 #          none      ->                                          brightest (level 5: neon top end, best day only)
 
-BG = "#0d1117"
-BORDER = "#30363d"
-TEXT_MUTED = "#8b949e"
-TEXT_BRIGHT = "#c9d1d9"
-GREEN = "#39d353"
+BG = "#0D1424"
+BORDER = "#26304A"
+TEXT_MUTED = "#A6B0C3"
+TEXT_BRIGHT = "#F2F0EA"
+GREEN = "#D9C7A7"
 
 CELL = 11
 GAP = 3
